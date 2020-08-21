@@ -108,16 +108,6 @@ GestureDetector createButton(BuildContext context, String image,
                                   shadows: [
                                     Shadow(blurRadius: 15, color: Colors.black)
                                   ]))),
-                      /* Positioned(
-                          bottom: 30,
-                          left: 15,
-                          child: Text(subText,
-                              style: TextStyle(
-                                  color: Colors.white,
-                                  fontSize: 17,
-                                  shadows: [
-                                    Shadow(blurRadius: 5, color: Colors.black)
-                                  ])))*/
                     ]),
                   ])))));
 }
